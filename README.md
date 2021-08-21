@@ -1,7 +1,4 @@
 ---
-# 👋 Hi, I’m Grzesiek.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Frontend technologies.
 - 📫 How to reach me: grzesiekmusial@gmail.com
 ---
 ---
